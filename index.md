@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>♥ Samozy's Trading Company</title>
+  </head>
 
-You can use the [editor on GitHub](https://github.com/poseidon134/MY-WEBSITE-FILES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td><img src="file:///C:/Users/ACER-PC/Desktop/academic%20papers/udemy%20web%20dev%20course/Nnanyere%20Picture.jpg" alt="Samozy profile picture"></td>
+        <td><h1>Nnanyere Ekenna</h1>
+        <p><em>Founder and CEO of </strong><a href="https://www.instagram.com/p/CNR9jmABxDO/?hl=en">Samozy Trading Company</a></<strong></em></p>
+        <p>I love to help manufacturers and sellers meet their goals</p>
+</td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Education</h3>
+    <ul>
+      <li>M.Sc Development Studies</li>
+      <li>The Complete 2022 Web Development Bootcamp</li>
+    </ul>
+    <hr/>
+    <h3>My Work Experience</h3>
+      <table><cellspacing="10">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      </cellspacing>
+        <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+        </thead>
+          <tbody>
 
-### Markdown
+            <td>2007 to Date</td>
+              <td>Chief Administrative Officer at National Business and Technical Examinations Board NABTEB</td>
+            </tr>
+            <tr>
+              <td>2019 to Date</td>
+              <td>Owner and CEO at Samozy Trading Company</td>
+            </tr>
+</tbody>
+          <tfoot></tfoot>
+        </table>
+    <hr>
+    <h3>My Skills</h3>
+    <table><cellspacing="10">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    </cellspacing>
+      <tr>
+        <td><table>
+          <tr>
+            <td>Marketing </td>
+            <td>✳✳✳✳✳✳</td>
+          </tr>
+          <tr>
+            <td>Administration</td>
+            <td> ✴✴✴✴✴✴✴</td>
+          </tr>
+          <tr>
+            <td>Web Development</td>
+            <td> &#11088; &#11088; &#11088; &#11088; &#11088; &#11088; </td>
+          </tr>
+     </table></td>
+        <td><table>
+          <tr>
+            <td>Microsoft Office suite</td>
+            <td> &#11088; &#11088; &#11088; &#11088; </td>
+          </tr>
+          <tr>
+            <td>Research</td>
+            <td> &#11088; &#11088; &#11088; &#11088; </td>
+          </tr>
+          <tr>
+            <td>Team Work</td>
+            <td> &#11088; &#11088; &#11088; &#11088; </td>
+          </tr>
+     </table></td>
+      </tr>
+    </table>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/poseidon134/MY-WEBSITE-FILES/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p></p>
+  <a href="My hobbies.html">My Hobbies</a>
+  <p>
+  <a href="contact.me.html">Contact Me</a>
+    </body>
+  
+</html>
